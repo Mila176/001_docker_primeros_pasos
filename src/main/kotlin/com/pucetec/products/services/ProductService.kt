@@ -54,12 +54,11 @@ class ProductService(
 }
 
 
-/***
+/*
  * controllers -> manejo de peticiones http
  *
  * services -> logica del negocio
  *
  * repositories -> dedican al acceso de data
  */
-
 
